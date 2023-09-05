@@ -21,7 +21,7 @@ StopWatch using HTML,CSS and JS
 7. you can now start,stop and reset the timer.
 
 ### SOFTWARES USED
-  - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
+  - XAMPP was installed on the windows 11 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
   - Visual Studio Code was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/GeoLocation-main was used as the url).
   
